@@ -1,1 +1,2 @@
 # Attendance_and-_student-stats_management
+Attendance and  Student Stats Management System is a modern way to simplify how attendance is recorded in places like schools and colleges.A camera scans each student’s face as they enter, marking them present instantly by matching with stored photos And Stores in the database Then eventually it stores the student's information like marks and the attendance it also stores student academic information.
